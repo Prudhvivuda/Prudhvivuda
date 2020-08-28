@@ -28,13 +28,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prudhvivuda&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></p>
 
-<div> <a href=https://www.womentechmakers.com/>
-   <img src=https://img.shields.io/badge/Google_WTM-Scholar-brightgreen>
+<div> 
+<br><br><br><br>
+<a href=https://www.gsyay.com/>
+   <img src=https://img.shields.io/badge/Mentor @ YAY!-brightgreen>
 </a>
-<a href=https://twitter.com/GDGVizag>
-   <img src=https://img.shields.io/badge/GDGVizag-Developing_Team-brightgreen>
+<a href=https://www.linkedin.com/company/technocolabs/>
+   <img src=https://img.shields.io/badge/Technocolabs-brightgreen>
 </a>
-</br>
 <a href=https://www.girlscript.tech/home>
    <img src=https://img.shields.io/badge/GirlScript_Vizag-Techinical_Team-brightgreen>
 </a>
