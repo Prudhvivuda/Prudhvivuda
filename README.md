@@ -40,3 +40,25 @@
 [![Instagram Badge](https://img.shields.io/badge/-Prudhvi%20vuda-blue?style=social&logo=Instagram&link=https://www.instagram.com/prudhvivuda)](https://www.instagram.com/prudhvivuda)
 [![Facebook Badge](https://img.shields.io/badge/-Prudhvi%20Vuda-blue?style=social&logo=Facebook&link=https://m.facebook.com/profile.php?id=100009614312031)](https://m.facebook.com/profile.php?id=100009614312031)
  
+ 
+ <a href=https://www.womentechmakers.com/>
+   <img src=https://img.shields.io/badge/Google_WTM-Scholar-brightgreen>
+</a>
+<a href=https://twitter.com/GDGVizag>
+   <img src=https://img.shields.io/badge/GDGVizag-Developing_Team-brightgreen>
+</a>
+</br>
+<a href=https://www.girlscript.tech/home>
+   <img src=https://img.shields.io/badge/GirlScript_Vizag-Techinical_Team-brightgreen>
+</a>
+<a href=https://auth.geeksforgeeks.org/college/vignans-institute-of-information-technology-viit-visakhapatnam>
+   <img src=https://img.shields.io/badge/GeeksforGeeks-Campus_Mantri-brightgreen>
+</a>
+</br>
+<a href=https://www.linkedin.com/in/smartbridge-educational-services-6755ab119/>
+   <img src=https://img.shields.io/badge/SmartBridge-ML_Intern-brightgreen>
+</a>
+<a href=https://twitter.com/WTMVizag>
+   <img src=https://img.shields.io/badge/WTMVizag-Volunteer-brightgreen>
+</a> 
+
