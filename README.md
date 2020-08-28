@@ -30,10 +30,10 @@
 
 <div> 
 <br><br><br><br>
-<a href=https://www.gsyay.com/>
-   <img src=https://img.shields.io/badge/Mentor @ YAY!-brightgreen>
+<a href=https://www.gsyay.com>
+   <img src=https://img.shields.io/badge/Mentor_@_YAY!-brightgreen>
 </a>
-<a href=https://www.linkedin.com/company/technocolabs/>
+<a href=https://www.linkedin.com/company/technocolabs>
    <img src=https://img.shields.io/badge/Technocolabs-brightgreen>
 </a>
 <a href=https://www.girlscript.tech/home>
