@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prudhvi Vuda</h1>
-<h3 align="center">Self motivated Programmer, Tech Geek, Data Science and ML Enthusiast</h3>
+<h3 align="center">AI and Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prudhvivuda" alt="Prudhvivuda" /> </p>
 
