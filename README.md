@@ -30,7 +30,7 @@
 <div>
 
 </div>
-</br></br>
+<br><br>
 [![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/Prudhvivuda)](https://github.com/Prudhvivuda)
 ![Kaggle Badge](https://img.shields.io/badge/Prudhvi%20Vuda-blue?style=social&logo=Kaggle&link=https://kaggle.com/prudhvivuda)
 [![Linkedin Badge](https://img.shields.io/badge/-Prudhvi%20Vuda-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/prudhvi-vuda-650221191)]([https://www.linkedin.com/in/prudhvi-vuda-650221191)
