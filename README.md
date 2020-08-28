@@ -36,7 +36,7 @@
 ![Kaggle Badge](https://img.shields.io/badge/Prudhvi%20Vuda-blue?style=social&logo=Kaggle&link=https://kaggle.com/prudhvivuda)
 [![Linkedin Badge](https://img.shields.io/badge/-Prudhvi%20Vuda-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/prudhvi-vuda-650221191)]([https://www.linkedin.com/in/prudhvi-vuda-650221191)
 ![Twitter Badge](http://img.shields.io/badge/-@VudaPrudhvi-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/VudaPrudhvi)
-[![Medium Badge](https://img.shields.io/badge/@Prudhvi-blue?style=social&logo=Medium&link=https://medium.com/@prudhvi12042001)](https://medium.com/@prudhvi12042001) 
+[![Medium Badge](https://img.shields.io/badge/@PrudhviVuda-blue?style=social&logo=Medium&link=https://medium.com/@prudhvi12042001)](https://medium.com/@prudhvi12042001) 
 [![Instagram Badge](https://img.shields.io/badge/-Prudhvi%20vuda-blue?style=social&logo=Instagram&link=https://www.instagram.com/prudhvivuda)](https://www.instagram.com/prudhvivuda)
 [![Facebook Badge](https://img.shields.io/badge/-Prudhvi%20Vuda-blue?style=social&logo=Facebook&link=https://m.facebook.com/profile.php?id=100009614312031)](https://m.facebook.com/profile.php?id=100009614312031)
  
