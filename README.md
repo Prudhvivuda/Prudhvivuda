@@ -40,7 +40,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Prudhvi%20vuda-blue?style=social&logo=Instagram&link=https://www.instagram.com/prudhvivuda)](https://www.instagram.com/prudhvivuda)
 [![Facebook Badge](https://img.shields.io/badge/-Prudhvi%20Vuda-blue?style=social&logo=Facebook&link=https://m.facebook.com/profile.php?id=100009614312031)](https://m.facebook.com/profile.php?id=100009614312031)
  
- 
+<div>
  <a href=https://www.womentechmakers.com/>
    <img src=https://img.shields.io/badge/Google_WTM-Scholar-brightgreen>
 </a>
@@ -61,4 +61,4 @@
 <a href=https://twitter.com/WTMVizag>
    <img src=https://img.shields.io/badge/WTMVizag-Volunteer-brightgreen>
 </a> 
-
+</div>
