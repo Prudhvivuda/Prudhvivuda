@@ -32,10 +32,10 @@
 
 </div>
 
-[![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/SudeepaNoble)](https://github.com/SudeepaNoble)
-[![Linkedin Badge](https://img.shields.io/badge/-Kolli%20Sudeepa-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sudeepanoble/)]([https://www.linkedin.com/in/sudeepanoble/)
-[![Twitter Badge](http://img.shields.io/badge/-@i_sudeepa-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/i_sudeepa)](https://twitter.com/i_sudeepa)
-[![Medium Badge](https://img.shields.io/badge/@sudeepa-blue?style=social&logo=Medium&link=https://medium.com/@sudeepa.kolli)](https://medium.com/@sudeepa.kolli) 
-[![Instagram Badge](https://img.shields.io/badge/-Kolli%20Sudeepa-blue?style=social&logo=Instagram&link=https://www.instagram.com/i_noble.sudeepa/)](https://www.instagram.com/i_noble.sudeepa/)
-[![Facebook Badge](https://img.shields.io/badge/-Kolli%20Sudeepa-blue?style=social&logo=Facebook&link=https://m.facebook.com/sudeepa.kolli)](https://m.facebook.com/sudeepa.kolli)
+[![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/Prudhvivuda)](https://github.com/Prudhvivuda)
+[![Linkedin Badge](https://img.shields.io/badge/-Kolli%20Sudeepa-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/prudhvi-vuda-650221191/)]([https://www.linkedin.com/in/prudhvi-vuda-650221191/)
+[![Twitter Badge](http://img.shields.io/badge/-@i_sudeepa-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/VudaPrudhvi)](https://twitter.com/VudaPrudhvi)
+[![Medium Badge](https://img.shields.io/badge/@sudeepa-blue?style=social&logo=Medium&link=https://medium.com/@prudhvi12042001)](https://medium.com/@prudhvi12042001) 
+[![Instagram Badge](https://img.shields.io/badge/-Kolli%20Sudeepa-blue?style=social&logo=Instagram&link=https://www.instagram.com/prudhvivuda/)](https://www.instagram.com/prudhvivuda/)
+[![Facebook Badge](https://img.shields.io/badge/-Kolli%20Sudeepa-blue?style=social&logo=Facebook&link=https://m.facebook.com/profile.php?id=100009614312031)](https://m.facebook.com/profile.php?id=100009614312031)
  
