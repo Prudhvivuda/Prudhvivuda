@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **the math behind ML and DL**
 
-- 👨‍💻 All of my projects are available at my [website](prudhvivuda.netlify.app)
+- 👨‍💻 All of my projects are available at my [website](https://prudhvivuda.netlify.app)
 
 - 📝 I write articles on [Medium](https://medium.com/@prudhvi12042001)
 
