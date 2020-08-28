@@ -31,10 +31,10 @@
 <div> 
 <br><br><br><br>
 <a href=https://www.gsyay.com>
-   <img src=https://img.shields.io/badge/Mentor_@_YAY!-brightgreen>
+   <img src=https://img.shields.io/badge/Mentor-YAY!-brightgreen>
 </a>
 <a href=https://www.linkedin.com/company/technocolabs>
-   <img src=https://img.shields.io/badge/Technocolabs-brightgreen>
+   <img src=https://img.shields.io/badge/Technocolabs-Data_Science Intern-brightgreen>
 </a>
 <a href=https://www.girlscript.tech/home>
    <img src=https://img.shields.io/badge/GirlScript_Vizag-Techinical_Team-brightgreen>
