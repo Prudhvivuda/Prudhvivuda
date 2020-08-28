@@ -34,25 +34,15 @@
    <img src=https://img.shields.io/badge/Mentor-YAY!-brightgreen>
 </a>
 <a href=https://www.linkedin.com/company/technocolabs>
-   <img src=https://img.shields.io/badge/Technocolabs-Data_Science Intern-brightgreen>
+   <img src=https://img.shields.io/badge/Data_Science_Intern-Technocolabs-brightgreen>
 </a>
-<a href=https://www.girlscript.tech/home>
-   <img src=https://img.shields.io/badge/GirlScript_Vizag-Techinical_Team-brightgreen>
+<a href=https://www.skyfilabs.com>
+   <img src=https://img.shields.io/badge/Student_Leader-Skyfi_Labs-brightgreen>
 </a>
-<a href=https://auth.geeksforgeeks.org/college/vignans-institute-of-information-technology-viit-visakhapatnam>
-   <img src=https://img.shields.io/badge/GeeksforGeeks-Campus_Mantri-brightgreen>
-</a>
-</br>
-<a href=https://www.linkedin.com/in/smartbridge-educational-services-6755ab119/>
-   <img src=https://img.shields.io/badge/SmartBridge-ML_Intern-brightgreen>
-</a>
-<a href=https://twitter.com/WTMVizag>
-   <img src=https://img.shields.io/badge/WTMVizag-Volunteer-brightgreen>
-</a> </div>
-
+</div>
 
 <div>
-<br><br><br><br><p>Folllow me 👇</p>
+<br><br><p>Folllow me 👇</p><br>
 </div>
 
 [![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/Prudhvivuda)](https://github.com/Prudhvivuda)
