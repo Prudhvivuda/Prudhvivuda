@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prudhvivuda" alt="Prudhvivuda" /> </p>
 
-- 🔭 I’m currently working as Python & Java Mentor at [YAY](https://www.gsyay.com/)
+- 🔭 I’m 3rd B.Tech CSE student.
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
