@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prudhvi Vuda</h1>
-<h3 align="center">AI and Data Science Enthusiast</h3>
+<h3 align="center">Software Development Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prudhvivuda" alt="Prudhvivuda" /> </p>
 
-- 🔭 I’m 3rd B.Tech CSE student.
-
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🔭 I am an SDE currently working at Bright Money.
 
 - 👯 I’m looking to collaborate on **Machine Learning models**
 
@@ -15,7 +13,7 @@
 
 - 📝 I write articles on [Medium](https://medium.com/@prudhvi12042001)
 
-- 💬 Ask me about **Java, Python, Data Analytics, Machine Learning**
+- 💬 Ask me about **Backend Development, Python, Data Analytics, Machine Learning**
 
 - 📫 How to reach me **prudhvi12042001@gmail.com**
 
