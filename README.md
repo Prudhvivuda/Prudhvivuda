@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prudhvivuda" alt="Prudhvivuda" /> </p>
 
-- 🔭 I am an SDE currently working at Bright Money.
+- 🔭 I am a Data Science grad Student at Northeastern University.
 
 - 👯 I’m looking to collaborate on **Machine Learning models**
 
