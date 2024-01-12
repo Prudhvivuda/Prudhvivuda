@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning models**
 
-- 🤝 I’m looking for help with **the math behind ML and DL**
-
 - 👨‍💻 All of my projects are available at my [website](https://prudhvivuda.netlify.app)
 
 - 📝 I write articles on [Medium](https://medium.com/@prudhvi12042001)
