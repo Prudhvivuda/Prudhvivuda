@@ -12,6 +12,8 @@
 - 💬 Ask me about **Backend Development, Python, Data Analytics, Machine Learning**.
 - 📫 Reach me at **prudhvi12042001@gmail.com**.
 
+<br>
+
 ### 🛠️ Skills
 
 <p align="left">
@@ -30,39 +32,47 @@
    <img src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg" alt="plotly" height="50"/> 
 </p>
 
-<br>
+<br><br>
 
 ### 📊 GitHub Stats
-<p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prudhvivuda&theme=dark&hide_langs_below=1" alt="Top Languages"/>
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prudhvivuda&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats"/></p>
 
-<br>
+<p>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prudhvivuda&theme=dark&hide_langs_below=1" alt="Top Languages" />
+</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prudhvivuda&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats" /></p>
+
+<br><br><br><br><br>
+
+<hr>
 
 ### 💼 Experience
+
 <div>
-   <a href=https://www.redhat.com/en>
-      <img src=https://img.shields.io/badge/Data_Scientist-Red_Hat-brightgreen alt="Red Hat"/>
+   <a href="https://www.redhat.com/en">
+      <img src="https://img.shields.io/badge/Data_Scientist-Red_Hat-brightgreen" alt="Red Hat"/>
    </a>
-   <a href=https://www.brightmoney.co/>
-      <img src=https://img.shields.io/badge/Software_Development_Engineer-Bright_Money-brightgreen alt="Bright Money"/>
+   <a href="https://www.brightmoney.co/">
+      <img src="https://img.shields.io/badge/Software_Development_Engineer-Bright_Money-brightgreen" alt="Bright Money"/>
    </a>
-   <a href=https://www.gsyay.com>
-      <img src=https://img.shields.io/badge/Mentor-YAY!-brightgreen alt="YAY!"/>
+   <a href="https://www.gsyay.com">
+      <img src="https://img.shields.io/badge/Mentor-YAY!-brightgreen" alt="YAY!"/>
    </a>
-   <a href=https://www.linkedin.com/company/technocolabs>
-      <img src=https://img.shields.io/badge/Data_Science_Intern-Technocolabs-brightgreen alt="Technocolabs"/>
+   <a href="https://www.linkedin.com/company/technocolabs">
+      <img src="https://img.shields.io/badge/Data_Science_Intern-Technocolabs-brightgreen" alt="Technocolabs"/>
    </a>
-   <a href=https://www.skyfilabs.com>
-      <img src=https://img.shields.io/badge/Student_Leader-Skyfi_Labs-brightgreen alt="Skyfi Labs"/>
+   <a href="https://www.skyfilabs.com">
+      <img src="https://img.shields.io/badge/Student_Leader-Skyfi_Labs-brightgreen" alt="Skyfi Labs"/>
    </a>
 </div>
 
-<br>
+<br><br>
+
+<hr>
 
 ### 📱 Follow Me
+
 <p>Follow me on these platforms:</p>
+
 <div>
    <a href="https://github.com/Prudhvivuda">
       <img src="https://img.shields.io/badge/Follow-blue?style=social&logo=Github" alt="GitHub"/>
