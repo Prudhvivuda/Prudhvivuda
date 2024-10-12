@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prudhvi Vuda</h1>
-<h2 align="center">Machine Learning Engineer</h2>
+<h1 align="center" style="margin-bottom: 0;">Hi 👋, I'm Prudhvi Vuda</h1>
+<h2 align="center" style="margin-top: 0;">Machine Learning Engineer</h2>
 
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=Prudhvivuda" alt="Profile Views" />
