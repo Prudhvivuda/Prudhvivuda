@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prudhvi Vuda</h1>
-<h3 align="center">Software Development Engineer</h3>
+<h2 align="center">Machine Learning Engineer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prudhvivuda" alt="Prudhvivuda" /> </p>
 
@@ -43,16 +43,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prudhvivuda&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></p>
 
 <div> 
-<br><br><br><br><br>
-<a href=https://www.gsyay.com>
-   <img src=https://img.shields.io/badge/Mentor-YAY!-brightgreen>
-</a>
-<a href=https://www.linkedin.com/company/technocolabs>
-   <img src=https://img.shields.io/badge/Data_Science_Intern-Technocolabs-brightgreen>
-</a>
-<a href=https://www.skyfilabs.com>
-   <img src=https://img.shields.io/badge/Student_Leader-Skyfi_Labs-brightgreen>
-</a>
+   <br><br><br><br><br>
+   <a href=https://www.redhat.com/en>
+      <img src=https://img.shields.io/badge/Data_Scientist-Red_Hat-brightgreen>
+   </a>
+   <a href=https://www.brightmoney.co/>
+      <img src=https://img.shields.io/badge/Software_Development_Engineer-Bright_Money-brightgreen>
+   </a>
+   <a href=https://www.gsyay.com>
+      <img src=https://img.shields.io/badge/Mentor-YAY!-brightgreen>
+   </a>
+   <a href=https://www.linkedin.com/company/technocolabs>
+      <img src=https://img.shields.io/badge/Data_Science_Intern-Technocolabs-brightgreen>
+   </a>
+   <a href=https://www.skyfilabs.com>
+      <img src=https://img.shields.io/badge/Student_Leader-Skyfi_Labs-brightgreen>
+   </a>
 </div>
 
 <div>
