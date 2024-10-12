@@ -21,16 +21,27 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" width="40" height="40"/> 
+   
+   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg" alt="flask" width="40" height="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="40" height="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="40" height="40"/>
+   
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="tensorflow" width="40" height="40"/> 
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+    
+   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40"/>
+   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="postgres" width="40" height="40"/>
+   
+   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="40" height="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg" alt="plotly" width="40" height="40"/>
 </p>
+
 <br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prudhvivuda&theme=dark&hide_langs_below=1" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prudhvivuda&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></p>
 
@@ -53,7 +64,7 @@
 
 [![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/Prudhvivuda)](https://github.com/Prudhvivuda)
 [![Kaggle Badge](https://img.shields.io/badge/-Prudhvi%20Vuda-blue?style=social&logo=Kaggle&link=https://kaggle.com/prudhvivuda)](https://kaggle.com/prudhvivuda)
-[![Linkedin Badge](https://img.shields.io/badge/-Prudhvi%20Vuda-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/prudhvi-vuda-650221191)](https://www.linkedin.com/in/prudhvi-vuda-650221191)
+[![Linkedin Badge](https://img.shields.io/badge/-Prudhvi%20Vuda-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/prudhvivuda/)](https://www.linkedin.com/in/prudhvivuda/)
 [![Twitter Badge](http://img.shields.io/badge/-@VudaPrudhvi-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/VudaPrudhvi)](https://twitter.com/VudaPrudhvi)
 [![Medium Badge](https://img.shields.io/badge/@PrudhviVuda-blue?style=social&logo=Medium&link=https://medium.com/@prudhvi12042001)](https://medium.com/@prudhvi12042001) 
 [![Instagram Badge](https://img.shields.io/badge/-Prudhvi%20vuda-blue?style=social&logo=Instagram&link=https://www.instagram.com/prudhvivuda)](https://www.instagram.com/prudhvivuda)
