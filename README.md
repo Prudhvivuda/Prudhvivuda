@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prudhvivuda" alt="Prudhvivuda" /> </p>
 
-- 🔭 I am a Data Science grad Student at Northeastern University.
+- 🔭 I am studying Data Science at Khoury College of Computer Sciences, Northeastern University, Boston.
 
 - 👯 I’m looking to collaborate on **Machine Learning models**
 
