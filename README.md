@@ -21,23 +21,23 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
-   <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" width="40" height="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" /> 
    
-   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="40"/> 
-   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg" alt="flask" width="40" height="40"/> 
-   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="40" height="40"/> 
-   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="40" height="40"/>
+   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django"/> 
+   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg" alt="flask"/> 
+   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5"/> 
+   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript"/>
    
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/> 
     
-   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> 
-   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="postgres" width="40" height="40"/>
+   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql"/> 
+   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb"/>
+   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="postgres"/>
    
-   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="40" height="40"/> 
-   <img src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg" alt="plotly" width="40" height="40"/>
+   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"/> 
+   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch"/> 
+   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy"/> 
+   <img src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg" alt="plotly"/>
 </p>
 
 <br>
@@ -69,4 +69,3 @@
 [![Medium Badge](https://img.shields.io/badge/@PrudhviVuda-blue?style=social&logo=Medium&link=https://medium.com/@prudhvi12042001)](https://medium.com/@prudhvi12042001) 
 [![Instagram Badge](https://img.shields.io/badge/-Prudhvi%20vuda-blue?style=social&logo=Instagram&link=https://www.instagram.com/prudhvivuda)](https://www.instagram.com/prudhvivuda)
 [![Facebook Badge](https://img.shields.io/badge/-Prudhvi%20Vuda-blue?style=social&logo=Facebook&link=https://m.facebook.com/profile.php?id=100009614312031)](https://m.facebook.com/profile.php?id=100009614312031)
-
