@@ -10,7 +10,7 @@
 - 👨‍💻 You can find all my projects on my [**Portfolio**](https://prudhvivuda.netlify.app).
 - 📝 I write articles on [**Medium**](https://medium.com/@prudhvi12042001).
 - 💬 Ask me about **Backend Development, Python, Data Analytics, Machine Learning**.
-- 📫 Reach me at **prudhvi12042001@gmail.com**.
+- 📫 Reach out to me at **prudhvi12042001@gmail.com**.
 
 <br>
 
