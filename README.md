@@ -5,7 +5,7 @@
    <img src="https://komarev.com/ghpvc/?username=Prudhvivuda" alt="Profile Views" />
 </p>
 
-- 🔭 - 🔭 I'm a **Software Engineer** and **Data Scientist** with experience in developing AI/ML applications and a passion for building intelligent systems. I hold a Master of Science in Data Science from **Khoury College of Computer Sciences, Northeastern University, Boston.** [cite: 16]
+- 🔭 - 🔭 I'm a **Software Engineer** and **Data Scientist** with experience in developing AI/ML applications and a passion for building intelligent systems. I hold a Master's degree in Data Science from **Northeastern University, Boston** and a Bachelor's in Computer Science degree from **Vignan's Institute of Information Technology, Visakhapatnam**.
 - 👯 I’m looking to collaborate on **Machine Learning models**.
 - 👨‍💻 You can find all my projects on my [**Portfolio**](https://prudhvivuda.github.io/).
 - 📝 I write articles on [**Medium**](https://medium.com/@prudhvi12042001).
