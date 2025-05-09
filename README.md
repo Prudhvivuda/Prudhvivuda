@@ -9,7 +9,7 @@
 - 👨‍💻 You can find all my experinces and projects on my [**Portfolio**](https://prudhvivuda.github.io/).
 - 📝 I write articles on [**Medium**](https://medium.com/@prudhvi12042001).
 - 💬 Ask me about **Backend Development, Machine Learning and AI**.
-- - 👯 I’m looking to collaborate on developing **AI powered solutions** which addresses real world problems. 
+- 👯 I’m looking to collaborate on developing **AI powered solutions** which addresses real world problems. 
 - 📫 Reach out to me at **prudhvi12042001@gmail.com**.
 
 <br>
