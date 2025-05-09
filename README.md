@@ -5,11 +5,11 @@
    <img src="https://komarev.com/ghpvc/?username=Prudhvivuda" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently pursuing **Data Science** at **Khoury College of Computer Sciences, Northeastern University, Boston.**
+- 🔭 - 🔭 I'm a **Software Engineer** and **Data Scientist** with experience in developing AI/ML applications and a passion for building intelligent systems. I hold a Master of Science in Data Science from **Khoury College of Computer Sciences, Northeastern University, Boston.** [cite: 16]
 - 👯 I’m looking to collaborate on **Machine Learning models**.
-- 👨‍💻 You can find all my projects on my [**Portfolio**](https://prudhvivuda.netlify.app).
+- 👨‍💻 You can find all my projects on my [**Portfolio**](https://prudhvivuda.github.io/).
 - 📝 I write articles on [**Medium**](https://medium.com/@prudhvi12042001).
-- 💬 Ask me about **Backend Development, Python, Data Analytics, Machine Learning**.
+- 💬 Ask me about **Backend Development, Machine Learning and AI**.
 - 📫 Reach out to me at **prudhvi12042001@gmail.com**.
 
 <br>
